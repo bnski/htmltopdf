@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+vendor
+html2pdf*
+*.pdf
+.env
